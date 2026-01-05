@@ -26,8 +26,7 @@ It acts as the "brain" connecting the user interface (Chatbot) to external data 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YourUsername/weather-chatbot-webhook.git](https://github.com/YourUsername/weather-chatbot-webhook.git)
-    cd weather-chatbot-webhook
+    git clone https://github.com/KSAahil/weather-chatbot-webhook.git
     ```
 
 2.  **Install dependencies**
@@ -45,4 +44,5 @@ It acts as the "brain" connecting the user interface (Chatbot) to external data 
 ├── src/
 │   └── app.py           # Main application logic
 ├── requirements.txt     # Dependencies
+
 └── README.md            # Documentation
